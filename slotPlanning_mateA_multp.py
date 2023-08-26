@@ -459,3 +459,4 @@ if __name__ == "__main__":
     np.save("bestindiv.npy",par_pop[0])
     
     #add comment to test the push 
+    #gitlab推送测试
