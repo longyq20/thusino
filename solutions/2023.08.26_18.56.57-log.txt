@@ -1,0 +1,8 @@
+2023/08/26 18:57:13    iteration: 0    best_fitness: 33.89458602636353
+2023/08/26 19:00:44    iteration: 20    best_fitness: 33.89458602636353
+2023/08/26 19:04:23    iteration: 40    best_fitness: 33.89458602636353
+2023/08/26 19:07:50    iteration: 60    best_fitness: 33.89458602636353
+2023/08/26 19:11:15    iteration: 80    best_fitness: 33.89458602636353
+2023/08/26 19:14:39    iteration: 100    best_fitness: 33.893529876969595
+2023/08/26 19:18:07    iteration: 120    best_fitness: 33.893529876969595
+2023/08/26 19:21:39    iteration: 140    best_fitness: 33.893529876969595
