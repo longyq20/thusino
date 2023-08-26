@@ -457,3 +457,5 @@ if __name__ == "__main__":
             recocdvalue(bestfitvalue,_gene,strtt)
             savesolution(pop_num, rho, beta, num_exchange, num_mutation,num_to_mutate,_gene+trained_gene,par_pop,bestfitvalue)
     np.save("bestindiv.npy",par_pop[0])
+    
+    #add comment to test the push 
